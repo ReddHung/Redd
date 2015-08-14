@@ -1,0 +1,93 @@
+第一組：新球崛起
+
+Python-Gevent
+
+斷詞
+ N-gram
+ wave Splitting
+ TF-IDF
+ LSI
+ EAV Model
+
+Data Mining
+ Gaussian Naive Bayes
+ Stratifiedkford
+ FP Growth
+ SKEW
+ Affinity Group
+
+WEB
+ Django - MVT 
+  Model
+  View
+  Templeate
+  URL Display
+ D3JS
+
+
+第二組：CoCo Stock
+股票預測與籌碼的分析預測
+
+QGIS 空間分析軟體， 經緯度
+裁減？
+支援python
+
+驗證碼
+ open cv —> OCR
+Flash Button
+ selenium, pyAutoGUI
+
+Python分類演算法
+ Ctree
+ rpart
+ SVM
+
+WEB
+ Bootstrap 3 - 自適應網站
+ HighCharts - jQuery 圖表套件
+
+Index 加速資料萃取？
+
+第三組：輿情
+
+WEB
+ Django
+  paytagcloud
+ Ajax：區域性更新資料
+
+斷詞
+ jieba：樹狀斷詞 
+ N-gram：字數斷詞
+ TF－IDF：詞頻－逆文件頻率
+
+分群
+ K-means
+ agglomerative clustering
+ DBSCAN
+
+第四組：Justisys
+
+ETL
+斷詞：刪除不必要文字，找同義詞，分類，辭典
+ jieba
+ N-gram
+
+database
+ 
+WEB
+ Django
+
+分析
+ SPSS
+ R
+
+
+廠商
+
+敦揚
+藍科數位科技
+耐特普羅 NetPro
+新蛋科技 NewEgg
+ETU
+
+
